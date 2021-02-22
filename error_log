@@ -1,0 +1,12 @@
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1302
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1302
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'LANG' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1307
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1307
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1355
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'LANG' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1355
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1302
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1302
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'LANG' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1307
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1307
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1355
+[22-Feb-2021 09:40:47 UTC] PHP Warning:  Illegal string offset 'LANG' in /home/vstream/public_html/client/novartis/admin/libs/mpdf/classes/cssmgr.php on line 1355
